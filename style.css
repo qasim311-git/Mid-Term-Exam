@@ -222,3 +222,11 @@ button[type="submit"]:active { transform: translateY(0); }
   .row { grid-template-columns: 1fr; gap: 0; }
   h1 { font-size: 1.5rem; }
 }
+.gender-action-text {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    color: #f4efef;
+    justify-content: center;
+}
